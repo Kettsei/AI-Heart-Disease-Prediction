@@ -1,2 +1,2 @@
-# AI-D-o-n-B-nh-Tim
+# AI Heart Disease Prediction
 Java
